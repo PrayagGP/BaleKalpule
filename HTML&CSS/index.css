@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+}
+    .blue{
+        color:blue;
+    }
+    .red{
+        color:black;
+    }
+    #head{
+        font-size:xx-large ;
+        
+    }
+
+    #try{
+        color:black;
+    }
+
+    .blue:hover{
+        color:brown;
+        background-color: black;
+        transform:scale(10);
+    }
